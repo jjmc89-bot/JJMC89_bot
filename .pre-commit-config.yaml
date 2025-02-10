@@ -81,7 +81,7 @@ repos:
           - flake8-typing-imports
           - pep8-naming
   - repo: https://github.com/pre-commit/mirrors-mypy
-    rev: v1.14.1
+    rev: v1.15.0
     hooks:
       - id: mypy
         args: []
